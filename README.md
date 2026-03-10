@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Fernando Rodríguez Arcos 👋
+# Hey, I'm Fernando Rodríguez 👋
 
 **Junior Full Stack & Mobile Developer · Granada, Spain 🇪🇸**
 
