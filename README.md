@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fer--rodriguez--arcos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fer-rodriguez-arcos/)
 [![GitHub](https://img.shields.io/badge/GitHub-Fer--r-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Fer-r)
-[![Email](https://img.shields.io/badge/Email-fer__r__a@outlook.es-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:fer_r_a@outlook.es)
+[![Email](https://img.shields.io/badge/Email-ferroa2001@gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:ferroa2001@gmail.com)
 
 </div>
 
@@ -51,9 +51,9 @@ I'm a developer with **dual training in Web and Multiplatform Application Develo
 
 <div align="center">
 
-![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fer-r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Fernando's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Fer-r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fer-r&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fer-r&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -64,7 +64,7 @@ I'm a developer with **dual training in Web and Multiplatform Application Develo
 If you want to collaborate on a project, talk tech, or just say hi — feel free to reach out!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fer-rodriguez-arcos/)
-- 📧 [fer_r_a@outlook.es](mailto:fer_r_a@outlook.es)
+- 📧 [ferroa2001@gmail.com](mailto:ferroa2001@gmail.com)
 
 ---
 
